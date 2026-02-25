@@ -1,0 +1,3 @@
+- [x] Remove max-w-3xl from about section div
+- [x] Remove max-w-3xl from projects section div
+- [x] Remove max-w-3xl from skills section div
