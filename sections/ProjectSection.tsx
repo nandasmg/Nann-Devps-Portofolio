@@ -38,7 +38,7 @@ export default function ProjectSection() {
               className="
                 px-4
                 text-gray-600
-                text-[15px] md:text-[12px]
+                text-[13px] md:text-[12px]
                 text-left
                 absolute top-[75px]
                 mt-70 md:mt-20 lg:mt-68
@@ -84,7 +84,7 @@ export default function ProjectSection() {
               className="
                 px-4
                 text-gray-600
-                text-[15px] md:text-[12px]
+                text-[12.5px] md:text-[12px]
                 text-left
                 absolute top-[75px]
                 mt-70 md:mt-20 lg:mt-68
@@ -130,7 +130,7 @@ export default function ProjectSection() {
               className="
                 px-4
                 text-gray-600
-                text-[15px] md:text-[12px]
+                text-[12.8px] md:text-[12px]
                 text-left
                 absolute top-[60px]
                 mt-70 md:mt-20 lg:mt-68

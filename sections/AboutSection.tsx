@@ -79,7 +79,7 @@ export default function AboutSection() {
             </a>
 
             <a
-              href="https://www.tiktok.com/@creative.lover13?_r=1&_t=ZS-943hL05CZWP"
+              href="https://www.tiktok.com/@nandasangmusisi?is_from_webapp=1&sender_device=pc"
               target="_blank"
               rel="noopener noreferrer"
             >
