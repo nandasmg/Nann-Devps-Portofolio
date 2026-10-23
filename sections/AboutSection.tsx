@@ -79,8 +79,7 @@ export default function AboutSection() {
             </a>
 
             <a
-              href="https://www.tiktok.com/@nandasangmusisi?is_from_webapp=1&sender_device=pc"
-              target="_blank"
+              href="https://www.tiktok.com/@nandasangmusisi"
               rel="noopener noreferrer"
             >
               <BiLogoTiktok className="text-4xl text-black hover:scale-110 transition" />
