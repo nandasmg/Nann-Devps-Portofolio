@@ -94,8 +94,7 @@ export default function AboutSection() {
             </a>
 
             <a
-              href="https://www.instagram.com/hephaestus0806?igsh=MXM5NTdscnFkYTczYg=="
-              target="_blank"
+              href="https://www.instagram.com/uncong_13/"
               rel="noopener noreferrer"
             >
               <BiLogoInstagram className="text-4xl text-[#E4405F] hover:scale-110 transition" />
